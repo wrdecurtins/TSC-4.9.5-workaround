@@ -1,0 +1,12 @@
+{
+  "completedBy": "Completed by {{ developer }}",
+  "pausedBy": "Paused by {{ developer }}",
+  "startedBy": "Started by {{ developer }}",
+  "stoppedBy": "Stopped by {{ developer }}",
+  "developer": "developer",
+  "noDeveloper": "No developer",
+  "activeWork": "Active Work",
+  "assignedWork": "Assigned Work",
+  "explainer": "explainer",
+  "products": "Products"
+}
