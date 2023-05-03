@@ -17,12 +17,12 @@
     "baseUrl": "./src",
     "module": "ESNext",
     "target": "ESNext",
+    "outDir": "dist",
     "incremental": true,
     "allowUnusedLabels": true,
     "paths": {
       "@locales/*": ["./locales/*"]
     }
   },
-  "include": ["./**/*", "config"],
-  "exclude": ["internal"]
+  "include": ["./**/*.ts", "config"]
 }
